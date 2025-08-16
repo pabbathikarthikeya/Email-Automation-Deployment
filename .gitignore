@@ -1,0 +1,7 @@
+# Ignore environment file
+.env
+*.mp4
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
